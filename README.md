@@ -1,0 +1,8 @@
+- 👋 Hi, I’m Pratham Kundu @Myself-Pk
+- 👀 I’m Software enthusiast with holistic knowledge of software development and design.
+- HTML | CSS | TailwindCSS | Bootstrap | JavaScript | React.js | jQuery | Typed.js | JSON | MySQL | PHP | Laravel | Python | Django | Git | Wordpress
+- 🌱 I’m currently learning many new things.
+- 👀 I have great adaptive & communication skills.
+- 💞️ I’m looking to collaborate on software development, website development, etc.
+- 📫 How to reach me:
+- 📫 Email - prathamkundu0@gmail.com
